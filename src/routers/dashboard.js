@@ -1,7 +1,7 @@
 const express = require('express')
 const router = new express.Router()
 const Menu = new require('../model/menu')
-router.get('/',async (req,res) =>
+router.get('/dashboard',async (req,res) =>
 {
     console.log("inseide dashboard.js")
     try
