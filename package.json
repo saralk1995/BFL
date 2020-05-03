@@ -12,7 +12,7 @@
   "dependencies": {
     "env-cmd": "^8.0.2",
     "express": "^4.17.1",
-    "mongoose": "^5.3.16",
+    "mongoose": "^5.7.5",
     "nodemon": "^2.0.3",
     "validator": "^13.0.0"
   }
